@@ -1,16 +1,10 @@
-﻿using APIAtendimento.Models;
-using APIAtendimento.Repository;
-using APIAtendimento.Services.Interface;
-using APIAtendimento.ViewModels;
+﻿using Metro.Atendimento.Portal.Services.Interface;
+using Metro.Atendimento.Portal.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
-namespace APIAtendimento.Controllers
+namespace Metro.Atendimento.Portal.Controllers
 {
     [ApiController]
     [Route(template:"v1")]
@@ -53,11 +47,10 @@ namespace APIAtendimento.Controllers
 
             try
             {
-                var atendimento = new Atendimento()
+                var atendimento = new Models.Atendimento()
                 {
                     Titulo = model.Titulo,
-                    Descricao = model.Descricao,
-                    DataSolicitacao = DateTime.Now
+                    Descricao = model.Descricao
                 };
 
                 atendimento = await atendimentoService.Salvar(atendimento);

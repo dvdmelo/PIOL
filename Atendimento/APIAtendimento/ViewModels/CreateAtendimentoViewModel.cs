@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace APIAtendimento.ViewModels
+namespace Metro.Atendimento.Portal.ViewModels
 {
     public class CreateAtendimentoViewModel
     {

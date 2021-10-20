@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj": {}
+    "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj": {}
   },
   "projects": {
-    "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj": {
+    "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj",
+        "projectUniqueName": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj",
         "projectName": "Metro.Atendimento.Portal",
-        "projectPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj",
+        "projectPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\obj\\",
         "projectStyle": "PackageReference",

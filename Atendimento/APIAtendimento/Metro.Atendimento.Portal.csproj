@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Metro.Atendimento.Portal</RootNamespace>
+    <AssemblyName>Metro.Atendimento.Portal</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

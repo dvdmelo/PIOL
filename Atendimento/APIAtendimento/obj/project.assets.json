@@ -741,9 +741,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj",
-      "projectName": "APIAtendimento",
-      "projectPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj",
+      "projectUniqueName": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj",
+      "projectName": "Metro.Atendimento.Portal",
+      "projectPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\obj\\",
       "projectStyle": "PackageReference",

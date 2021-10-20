@@ -1,17 +1,16 @@
-﻿using APIAtendimento.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace APIAtendimento.Repository
+namespace Metro.Atendimento.Portal.Repository
 {
     public class AppDbContext: DbContext
     {
     
-        public DbSet<Atendimento> Atendimentos { get; set; }
+        public DbSet<Models.Atendimento> Atendimentos { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Atendimento>()
+            modelBuilder.Entity<Models.Atendimento>()
                 .Property(p => p.Id)
                 .ValueGeneratedOnAdd();
         }
