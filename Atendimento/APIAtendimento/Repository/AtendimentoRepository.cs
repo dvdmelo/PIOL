@@ -1,12 +1,9 @@
-﻿using APIAtendimento.Models;
-using APIAtendimento.Repository.Interface;
+﻿using Metro.Atendimento.Portal.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
-namespace APIAtendimento.Repository
+namespace Metro.Atendimento.Portal.Repository
 {
     public class AtendimentoRepository : IAtendimentoRepository
     {
@@ -17,14 +14,14 @@ namespace APIAtendimento.Repository
             context = _context;
         }
 
-        public Task<List<Atendimento>> ListarTodos()
+        public Task<List<Models.Atendimento>> ListarTodos()
         {
             var atendimentos = context.Atendimentos.ToListAsync();
 
             return atendimentos;
         }
 
-        public async Task<Atendimento> ObterPorId(int id)
+        public async Task<Models.Atendimento> ObterPorId(int id)
         {
             var atendimento = await context.Atendimentos.FirstOrDefaultAsync(d => d.Id == id);
 
@@ -32,7 +29,7 @@ namespace APIAtendimento.Repository
         }
            
 
-        public async Task<Atendimento> Salvar(Atendimento model)
+        public async Task<Models.Atendimento> Salvar(Models.Atendimento model)
         {
            await context.Atendimentos.AddAsync(model);
             context.SaveChanges();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQbyOqupVZ3280/oQMprWcaEBUbafcbB9MIvGn6MTe+H3Y/t57soAn90ITGx7toZDK83yoD04Y62bmqnoGgcQA==",
+  "dgSpecHash": "Yog1e9PmQt3DFYpHmaiK9qHPuiRkpCqtPLe6VxBQxNy2Qo/5GtqAjGZ+G93kxQ6IDlMW2FMiZH+1m02pmvU3LA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\APIAtendimento.csproj",
+  "projectFilePath": "C:\\dev\\PIOL\\Atendimento\\APIAtendimento\\Metro.Atendimento.Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",

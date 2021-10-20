@@ -1,17 +1,14 @@
-﻿using APIAtendimento.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace APIAtendimento.Repository.Interface
+namespace Metro.Atendimento.Portal.Repository.Interface
 {
     public interface IAtendimentoRepository
     {
-         Task<List<Atendimento>> ListarTodos();
+         Task<List<Models.Atendimento>> ListarTodos();
 
-         Task<Atendimento> ObterPorId(int id);
+         Task<Models.Atendimento> ObterPorId(int id);
 
-         Task<Atendimento> Salvar(Atendimento model);
+         Task<Models.Atendimento> Salvar(Models.Atendimento model);
     }
 }
