@@ -3,9 +3,12 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "app-atendimento": {
+    "mt-atendimento": {
       "projectType": "application",
       "schematics": {
+        "@schematics/angular:component": {
+          "style": "css"
+        },
         "@schematics/angular:application": {
           "strict": true
         }
@@ -17,19 +20,25 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/app-atendimento",
+            "outputPath": "dist/mt-atendimento",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
+            "inlineStyleLanguage": "css",
             "assets": [
               "src/favicon.ico",
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
+              "src/styles.css",
+              "src/assets/css/custonBootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -68,10 +77,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "app-atendimento:build:production"
+              "browserTarget": "mt-atendimento:build:production"
             },
             "development": {
-              "browserTarget": "app-atendimento:build:development"
+              "browserTarget": "mt-atendimento:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +88,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "app-atendimento:build"
+            "browserTarget": "mt-atendimento:build"
           }
         },
         "test": {
@@ -89,14 +98,13 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
+            "inlineStyleLanguage": "css",
             "assets": [
               "src/favicon.ico",
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
-
+              "src/styles.css"
             ],
             "scripts": []
           }
@@ -104,5 +112,5 @@
       }
     }
   },
-  "defaultProject": "app-atendimento"
+  "defaultProject": "mt-atendimento"
 }
