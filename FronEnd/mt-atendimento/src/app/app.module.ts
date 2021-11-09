@@ -8,6 +8,8 @@ import { MainComponent } from './main/main.component';
 import { FaleConoscoComponent } from './fale-conosco/fale-conosco.component';
 import { ChatComponent } from './chat/chat.component';
 import { SituacaoLinhasComponent } from './situacao-linhas/situacao-linhas.component';
+import { RegistarManifestacaoComponent } from './registar-manifestacao/registar-manifestacao.component';
+import { ConsultarManifestacaoComponent } from './consultar-manifestacao/consultar-manifestacao.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { SituacaoLinhasComponent } from './situacao-linhas/situacao-linhas.compo
     MainComponent,
     FaleConoscoComponent,
     ChatComponent,
-    SituacaoLinhasComponent
+    SituacaoLinhasComponent,
+    RegistarManifestacaoComponent,
+    ConsultarManifestacaoComponent
   ],
   imports: [
     BrowserModule,
