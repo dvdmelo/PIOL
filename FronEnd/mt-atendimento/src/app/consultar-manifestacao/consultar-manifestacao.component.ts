@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'mt-consultar-manifestacao',
-  templateUrl: './consultar-manifestacao.component.html',
-  styleUrls: ['./consultar-manifestacao.component.css']
+  templateUrl: './consultar-manifestacao.component.html'
 })
 export class ConsultarManifestacaoComponent implements OnInit {
 

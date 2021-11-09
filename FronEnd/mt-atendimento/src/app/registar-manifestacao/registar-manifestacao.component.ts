@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'mt-registar-manifestacao',
-  templateUrl: './registar-manifestacao.component.html',
-  styleUrls: ['./registar-manifestacao.component.css']
+  templateUrl: './registar-manifestacao.component.html'
 })
 export class RegistarManifestacaoComponent implements OnInit {
 
