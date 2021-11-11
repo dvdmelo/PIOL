@@ -31,3 +31,4 @@ C:\dev\PIOL\Atendimento\APIAtendimento\obj\Debug\net5.0\Metro.Atendimento.Portal
 C:\dev\PIOL\Atendimento\APIAtendimento\obj\Debug\net5.0\ref\Metro.Atendimento.Portal.dll
 C:\dev\PIOL\Atendimento\APIAtendimento\obj\Debug\net5.0\Metro.Atendimento.Portal.pdb
 C:\dev\PIOL\Atendimento\APIAtendimento\obj\Debug\net5.0\Metro.Atendimento.Portal.genruntimeconfig.cache
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Debug\net5.0\Metro.Atendimento.Portal.csprojAssemblyReference.cache

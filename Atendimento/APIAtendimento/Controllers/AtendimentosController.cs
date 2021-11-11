@@ -49,8 +49,8 @@ namespace Metro.Atendimento.Portal.Controllers
             {
                 var atendimento = new Models.Atendimento()
                 {
-                    Titulo = model.Titulo,
-                    Descricao = model.Descricao
+                    Assunto = model.Assunto,
+                    Mensagem = model.Mensagem
                 };
 
                 atendimento = await atendimentoService.Salvar(atendimento);

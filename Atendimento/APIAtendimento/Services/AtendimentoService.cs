@@ -9,10 +9,12 @@ namespace Metro.Atendimento.Portal.Services
     public class AtendimentoService : IAtendimentoService
     {
         private readonly IAtendimentoRepository atendimentoRepository;
+        private readonly IProtocoloService protocoloService;
 
-        public AtendimentoService(IAtendimentoRepository _atendimentoRepository)
+        public AtendimentoService(IAtendimentoRepository _atendimentoRepository, IProtocoloService _protocoloService)
         {
             atendimentoRepository = _atendimentoRepository;
+            protocoloService = _protocoloService;
         }
 
         public Task<List<Models.Atendimento>> ListarTodos()
@@ -28,6 +30,7 @@ namespace Metro.Atendimento.Portal.Services
         public Task<Models.Atendimento> Salvar(Models.Atendimento model)
         {
             model.DataSolicitacao = DateTime.Now;
+            model.NumeroProtocolo = protocoloService.GerarProtocolo();
             return atendimentoRepository.Salvar(model);
         }
     }

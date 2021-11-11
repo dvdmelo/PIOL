@@ -300,7 +300,7 @@
     height: auto;
   }
 
-  .fale-conosco .breadcrumb a{
+  .mt-conteudo .breadcrumb a{
     color: #24488f;
     font-weight: bold;
   }
@@ -341,4 +341,12 @@
 
   .fale-conosco__box-item a:hover {
     text-decoration: underline;
+}
+
+.mt-sucesso {
+  color: #34611a;
+}
+
+.mt-erro {
+  color: #ff0000;
 }

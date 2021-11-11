@@ -5,9 +5,9 @@ namespace Metro.Atendimento.Portal.ViewModels
     public class CreateAtendimentoViewModel
     {
         [Required]
-        public string Titulo { get; set; }
+        public string Assunto { get; set; }
         
         [Required]
-        public string Descricao { get; set; }
+        public string Mensagem { get; set; }
     }
 }

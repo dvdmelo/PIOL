@@ -1,5 +1,57 @@
 <div class="container mt-conteudo">
     
-<p>registar-manifestacao works!</p>
-
+    <div class="registar-manifestacao">
+        <nav aria-label="breadcrumb" >
+            <ol class="breadcrumb" >
+              <li class="breadcrumb-item"><a routerLink="/" routerLinkActive="active">Home</a></li>
+              <li class="breadcrumb-item active" aria-current="page">Registro da manifestação</li>
+            </ol>
+          </nav>
+          <div class="container ">
+  
+            <div class="row ">
+                <div class="col-md-12">
+                <form [formGroup]="registarManifestacaoForm" novalidate>
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <div *ngIf="showSuccess()" class="alert alert-success" role="alert">
+                                Manifestação registrada com sucesso! <br>
+                                Número  de protocolo gerado: {{NumeroProtocolo}}                               
+                            </div>
+                              <div *ngIf="showError()"  class="alert alert-danger" role="alert">
+                                Ocorreu um erro ao enviar requisição!
+                              </div>
+                        </div>
+                    </div>
+                    <div class="row">                      
+                        <div class="col-sm-6 col-xs-12">
+                            <mt-input-container errorMessage="Campo Obrigatório e com entre 5 a 30 caracteres" label="Assunto"> 
+                                <input class="form-control" formControlName="Assunto"  placeholder="Assunto" autocomplete="off" type="text"   ng-change="inputChange()"/>
+                            </mt-input-container>
+                      </div>
+                    </div>
+                    <br/>
+                    <div class="row">                      
+                        <div class="col-sm-6 col-xs-12">
+                            <mt-input-container errorMessage="Campo Obrigatório e entre 5 a 500 caracteres" label="Mensagem"> 
+                                
+                                <textarea class="form-control" formControlName="Mensagem"  placeholder="Mensagem" autocomplete="off" rows="10" ng-change="inputChange()"  ></textarea>
+                            </mt-input-container>
+                      </div>
+                    </div>
+                    <br/>
+                    <div class="row">
+                        <div class="col-ms-2">
+                        <button (click)="registarManifestacao(registarManifestacaoForm.value)"  class="btn btn-primary pull-left" 
+                            [disabled]="!registarManifestacaoForm.valid">
+                            <i class="fa fa-credit-card">  </i> Registar
+                            </button>                  
+                        
+                        </div>
+                    </div>
+                </form>
+            </div>
+            </div>
+          </div>
+    </div>
 </div>
