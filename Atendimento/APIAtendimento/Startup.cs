@@ -20,6 +20,8 @@ namespace Metro.Atendimento.Portal
 
         public IConfiguration Configuration { get; }
 
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
@@ -29,6 +31,16 @@ namespace Metro.Atendimento.Portal
 
             services.AddScoped<IAtendimentoRepository, AtendimentoRepository>();
             services.AddScoped<IAtendimentoService, AtendimentoService>();
+            services.AddScoped<IProtocoloService, ProtocoloService>();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy(MyAllowSpecificOrigins,
+                builder =>
+                {
+                    builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+                });
+            });
 
             services.AddSwaggerGen(c =>
             {
@@ -50,7 +62,8 @@ namespace Metro.Atendimento.Portal
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
+            app.UseCors(MyAllowSpecificOrigins);
 
             app.UseEndpoints(endpoints =>
             {

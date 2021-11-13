@@ -7,7 +7,7 @@ namespace Metro.Atendimento.Portal.Repository.Interface
     {
          Task<List<Models.Atendimento>> ListarTodos();
 
-         Task<Models.Atendimento> ObterPorId(int id);
+         Task<Models.Atendimento> ObterPorNumeroProtocolo(long numeroProtocolo);
 
          Task<Models.Atendimento> Salvar(Models.Atendimento model);
     }

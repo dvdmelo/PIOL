@@ -21,9 +21,9 @@ namespace Metro.Atendimento.Portal.Repository
             return atendimentos;
         }
 
-        public async Task<Models.Atendimento> ObterPorId(int id)
+        public async Task<Models.Atendimento> ObterPorNumeroProtocolo(long numeroProtocolo)
         {
-            var atendimento = await context.Atendimentos.FirstOrDefaultAsync(d => d.Id == id);
+            var atendimento = await context.Atendimentos.FirstOrDefaultAsync(d => d.NumeroProtocolo == numeroProtocolo);
 
             return atendimento;
         }
