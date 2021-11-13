@@ -1,0 +1,16 @@
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Metro.Atendimento.Portal.exe
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Metro.Atendimento.Portal.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Metro.Atendimento.Portal.deps.json
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Metro.Atendimento.Portal.runtimeconfig.json
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Metro.Atendimento.Portal.pdb
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\PIOL\Atendimento\APIAtendimento\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll

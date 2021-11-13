@@ -1,4 +1,73 @@
 <div class="container mt-conteudo">
     
-    <p>consultar-manifestacao works!</p>
+    <div class="registar-manifestacao">
+        <nav aria-label="breadcrumb" >
+            <ol class="breadcrumb" >
+              <li class="breadcrumb-item"><a routerLink="/" routerLinkActive="active">Home</a></li>
+              <li class="breadcrumb-item"><a routerLink="/fale-conosco" routerLinkActive="active">Fale Consoco</a></li>
+              <li class="breadcrumb-item active" aria-current="page">Consultar Manifestação</li>
+            </ol>
+          </nav>
+          <div class="container ">
+  
+            <div class="row ">
+                <div class="col-md-12">
+                <form [formGroup]="consultarManifestacaoForm" novalidate>
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                           
+                              <div *ngIf="showError()"  class="alert alert-danger" role="alert">
+                                Ocorreu um erro ao enviar requisição!
+                              </div>
+                         
+                                <div *ngIf="showNotRegister()"  class="alert alert-danger" role="alert">
+                                    Registro não encontrado!
+                                </div>
+                           
+                        </div>
+                    </div>
+                    <div class="row">                      
+                        <div class="col-sm-3 ">
+                            <mt-input-container errorMessage="Campo Obrigatório!" label="Numero do Protocolo"> 
+                                <input class="form-control" formControlName="NumeroProtocolo"  placeholder="Numero do Protocolo" autocomplete="off" type="text"   (change)="inputChange()"/>
+                            </mt-input-container>
+                      </div>
+                      <div class="col-sm-2">
+                        <button (click)="consultarManifestacao()"  class="btn btn-primary pull-left" 
+                            [disabled]="!consultarManifestacaoForm.valid">
+                            <i class="fa fa-credit-card">  </i> Consultar
+                            </button>                  
+                        
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+            </div>
+            <br/>
+            <div *ngIf="showRegister()">
+                <div  class="row ">
+                    <div class="col-md-12">
+                      <strong> Assunto:</strong>  {{manifestacao.Assunto}}
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-12">
+                        <strong>Mensagem:</strong> {{manifestacao.Mensagem}}
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-12">
+                        <strong>Data Solitação:</strong>  {{manifestacao.DataSolicitacao | date : 'dd/MM/yyyy HH:mm:ss'}}
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-12">
+                        <strong>Situação:</strong> {{manifestacao.DescricaoStatus}}
+                    </div>
+                </div>
+            </div>
+            
+          </div>
+    </div>
 </div>

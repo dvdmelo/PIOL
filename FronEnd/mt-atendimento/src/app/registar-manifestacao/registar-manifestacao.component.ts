@@ -49,7 +49,7 @@ export class RegistarManifestacaoComponent implements OnInit {
       this.registarManifestacaoService.registarManifestacao(registar).subscribe( (registarResponse: any)=> {
         console.log("retorno");
         console.log(registarResponse);
-        this.NumeroProtocolo = registarResponse.numeroProtocolo;      
+        this.NumeroProtocolo = registarResponse.NumeroProtocolo;      
         this.isSuccess = true;
         this.registarManifestacaoForm.reset();
         
@@ -57,15 +57,7 @@ export class RegistarManifestacaoComponent implements OnInit {
     } catch(e){
     this.isError = true;
     }
-    // order.orderItems = this.cartItems()
-    //   .map((item: CarItem)=> new OrderItem(item.quantity,item.menuItem.id))
-
-    //   this.orderService.checkOrder(order)
-    //       .subscribe( (orderId: string)=> {
-    //         this.router.navigate(['/order-summary'])            
-    //         this.orderService.clear()
-    //       })
-
+    
       console.log(registar)
   }
 

@@ -4,6 +4,7 @@
         <nav aria-label="breadcrumb" >
             <ol class="breadcrumb" >
               <li class="breadcrumb-item"><a routerLink="/" routerLinkActive="active">Home</a></li>
+              <li class="breadcrumb-item"><a routerLink="/fale-conosco" routerLinkActive="active">Fale Consoco</a></li>
               <li class="breadcrumb-item active" aria-current="page">Registro da manifestação</li>
             </ol>
           </nav>
@@ -26,7 +27,7 @@
                     <div class="row">                      
                         <div class="col-sm-6 col-xs-12">
                             <mt-input-container errorMessage="Campo Obrigatório e com entre 5 a 30 caracteres" label="Assunto"> 
-                                <input class="form-control" formControlName="Assunto"  placeholder="Assunto" autocomplete="off" type="text"   ng-change="inputChange()"/>
+                                <input class="form-control" formControlName="Assunto"  placeholder="Assunto" autocomplete="off" type="text"   (change)="inputChange()"/>
                             </mt-input-container>
                       </div>
                     </div>

@@ -1,6 +1,6 @@
 
 export const environment = {
   production: false,
-  api:'https://localhost:44388'
+  apiAtendimento:'https://localhost:44388'
 };
 
