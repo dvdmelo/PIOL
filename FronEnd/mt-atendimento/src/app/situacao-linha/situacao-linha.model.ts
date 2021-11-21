@@ -4,6 +4,7 @@ class  SituacaoLinhaModel{
     public NomeLinha?: string
     public CodigoSituacao?: number
     public Situacao?: string
+    public CodNomeLinha?: string
 
 }
 

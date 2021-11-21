@@ -12,10 +12,7 @@ body {
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
-/* Carousel base class */
-.carousel {
-  margin-bottom: 1rem;
-}
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -24,7 +21,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 28rem;
+  height: 24rem;
 }
 .carousel-item > img {
   position: absolute;

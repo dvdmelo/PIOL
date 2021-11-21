@@ -14,7 +14,7 @@ export class SituacaoLinhaService {
 
 
 
-    obterSituacaoLinhas():Observable<SituacaoLinhaModel>{ 
+    obterSituacaoLinhas():Observable<SituacaoLinhaModel[]>{ 
         const headers= new Headers()
         console.log('situacaoLinhaService');
         console.log(`${MT_API_TELEMETRIA}`);
@@ -25,7 +25,7 @@ export class SituacaoLinhaService {
               'Content-Type':  'application/json'
             })};
 
-        return this.http.get<SituacaoLinhaModel>(`${MT_API_TELEMETRIA}/v1/telemetriaLinhas/situacaolinhas`, httpOptions)           
+        return this.http.get<SituacaoLinhaModel[]>(`${MT_API_TELEMETRIA}/v1/telemetriaLinhas/situacaolinhas`, httpOptions)           
     
           
       }
