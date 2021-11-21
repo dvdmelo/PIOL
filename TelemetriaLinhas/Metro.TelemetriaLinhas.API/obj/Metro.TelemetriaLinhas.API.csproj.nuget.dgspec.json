@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj": {}
+    "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj": {}
   },
   "projects": {
-    "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj": {
+    "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
+        "projectUniqueName": "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
         "projectName": "Metro.TelemetriaLinhas.API",
-        "projectPath": "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
+        "projectPath": "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\obj\\",
+        "outputPath": "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
