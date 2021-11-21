@@ -354,3 +354,54 @@
 .mt-chat {
   border: solid 1px  #24488f;
 }
+
+.situacao__linha{
+  font-size: 10px;
+  font-family: Arial, Verdana, Helvetica, "Nimbus Sans L", sans-serif;
+}
+.situacao__linha__icone{
+  width: 21px;
+	height: 21px;
+	border-radius: 50%;
+	overflow: hidden;
+	float: left;
+	margin-right: 5px;
+	transition: 0.3s ease;
+}
+
+.situacao__linha__icone--normal{  
+  background-color: #34611a;
+}
+
+.situacao__linha__icone--parcial{
+  
+  background-color:  #dfcb12;
+}
+.situacao__linha__icone--paralizada{
+  
+  background-color: #df2a12;
+}
+
+.noticia_faleconsco{
+  width: 80%;
+  height: 100%;
+  float: left;
+  background: url(/assets/image/fale-conosco.jpg) no-repeat center 0px;
+}
+
+.noticia_suaviagem{
+  width: 80%;
+  height: 100%;
+    float: left;
+    background: url(/assets/image/sua-viagem.jpg) no-repeat center 0px;
+
+}
+
+
+.noticia_obras{
+  width: 80%;
+  height: 100%;
+    float: left;
+    background: url(/assets/image/obras.jpg) no-repeat center 0px;
+
+}

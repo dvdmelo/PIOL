@@ -25,5 +25,14 @@ namespace Metro.TelemetriaLinhas.API.Models
         public int CodigoSituacao { get; set; }
         [JsonPropertyName("Situacao")]
         public string Situacao { get; set; }
+
+        [JsonPropertyName("CodNomeLinha")]
+        public string CodNomeLinha
+        {
+            get
+            {
+                return string.Format("Linha {0} - {1}", CodigoLinha, NomeLinha);
+            }
+        }
     }
 }
