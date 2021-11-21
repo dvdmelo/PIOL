@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeFBFw+4mUkC3agugLCHdqQAAAAACAAAAAAAQZgAAAAEAACAAAABhk1PmZDGHDKT6zQynHRtrylVwpAqW2446xmvpYF+fZwAAAAAOgAAAAAIAACAAAAB0bazk8Wh23E2fju/G2vkVM/vVNEULZspsKxquwWrm+oAAAACO+c1ErEXn7JI8ScUyOcDj7nQAQFzZvFCXWVlJV52JGQWzKs2boCFerOL1tQ0h7ZbMrWY25sH3gFW1J/12OCQpoULDIfjf4V6a22QyMKKfBn77X5hQ3cjMsXUqJjznLDHKRJJFfDHQiQp5sHVHkFjbhtvg3JA+VTN7TuCNclYsqkAAAADZ1pTpyLW45mWn+pWWk4I+2pShjC5IeXRvmHxvKF2+rj0SoQkjAUg3P2BvrabTfxrC8lIqM0Dr3at8caSgcC1B</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-cq1-033.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/17/2021 21:44:23</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/17/2021 21:44:23</publishTime>
+    </File>
+    <File Include="Metro.TelemetriaLinhas.API.deps.json">
+      <publishTime>11/21/2021 17:54:44</publishTime>
+    </File>
+    <File Include="Metro.TelemetriaLinhas.API.dll">
+      <publishTime>11/21/2021 17:54:44</publishTime>
+    </File>
+    <File Include="Metro.TelemetriaLinhas.API.exe">
+      <publishTime>11/21/2021 17:54:44</publishTime>
+    </File>
+    <File Include="Metro.TelemetriaLinhas.API.pdb">
+      <publishTime>11/21/2021 17:54:44</publishTime>
+    </File>
+    <File Include="Metro.TelemetriaLinhas.API.runtimeconfig.json">
+      <publishTime>11/21/2021 17:54:44</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 20:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 12:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 12:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 12:47:24</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/21/2021 17:54:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

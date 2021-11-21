@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xul2uvwKWlDj0ne98o5OHbWmCZjuAe19te7cqMETQFt+RKpoTBalz/tBXMKio8NMLR/5cy4cy9+6cwVuE2gd6Q==",
+  "dgSpecHash": "99mI71VJjfH3e9PW/oj70vRTZ5k8VO+4ZVkKnsrghB+jYsyarLE/2he9ziMSVCfpnhSeGycKrxMbUnSCzlgX+A==",
   "success": true,
-  "projectFilePath": "C:\\dev\\PIOL\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
+  "projectFilePath": "C:\\dev\\PIOL\\TelemetriaLinhas\\Metro.TelemetriaLinhas.API\\Metro.TelemetriaLinhas.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

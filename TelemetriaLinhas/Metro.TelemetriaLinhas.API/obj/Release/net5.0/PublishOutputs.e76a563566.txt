@@ -1,0 +1,11 @@
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Metro.TelemetriaLinhas.API.exe
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Metro.TelemetriaLinhas.API.dll
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Metro.TelemetriaLinhas.API.deps.json
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Metro.TelemetriaLinhas.API.runtimeconfig.json
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Metro.TelemetriaLinhas.API.pdb
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\PIOL\TelemetriaLinhas\Metro.TelemetriaLinhas.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
