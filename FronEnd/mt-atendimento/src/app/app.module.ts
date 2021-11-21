@@ -16,7 +16,10 @@ import { RegistarManifestacaoComponent } from './registar-manifestacao/registar-
 import { ConsultarManifestacaoComponent } from './consultar-manifestacao/consultar-manifestacao.component';
 import { InputcontainerComponent } from '../app/shared/input-container/input-container.component';
 import { RegistarManifestacaoService } from './registar-manifestacao/registar-manifestacao.service';
-import { SituacaoLinhaComponent } from './situacao-linha/situacao-linha.component'
+import { SituacaoLinhaComponent } from './situacao-linha/situacao-linha.component';
+import { NoticiaDestaqueComponent } from './noticia-destaque/noticia-destaque.component';
+import { MarketingComponent } from './marketing/marketing.component';
+import { FooterComponent } from './footer/footer.component'
 
 
 @NgModule({
@@ -30,7 +33,10 @@ import { SituacaoLinhaComponent } from './situacao-linha/situacao-linha.componen
     RegistarManifestacaoComponent,
     ConsultarManifestacaoComponent,
     InputcontainerComponent,
-    SituacaoLinhaComponent
+    SituacaoLinhaComponent,
+    NoticiaDestaqueComponent,
+    MarketingComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
