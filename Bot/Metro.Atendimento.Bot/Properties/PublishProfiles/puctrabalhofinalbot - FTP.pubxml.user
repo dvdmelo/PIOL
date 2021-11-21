@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKvf43EGMgU28dTaeyeVKLgAAAAACAAAAAAAQZgAAAAEAACAAAADPjkAT7gFdBhk93g23UK11ByWP0iMjUa4HpUgP5cCbXQAAAAAOgAAAAAIAACAAAABYpkcx3Jhe4XGItp3PTaxINocmIkl69VeLaNuA9JnE5oAAAACHHdIuri3NoOmelXpJWksmlq/0hFAmgJIlcBQ/8qSOIdq+ZWwpW92atFIF7f9qsez133EONBcRCMgi6PI32mWBCz0YCAATHGQMeLnZ2BBjH3HIrVWjq/2JwR6dgrR3/SH3bEnJ9UsJyTYa2KFBl2WJI+vKxB7kxyhTdccFqSY+9UAAAACHC096qL6tzZDvphtBpyM7wonwtl9RFe/vUnuiwQ6Xo7yH5iQnq9DrrMQCdTS+2MQZ9k+Cd3TCBB2eWRP26Jsw</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-cq1-033.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2021-11-21T19:08:02.1692844Z;False|2021-11-21T16:07:23.5852916-03:00;True|2021-11-13T18:51:50.6328860-03:00;False|2021-11-13T18:51:01.2190870-03:00;False|2021-11-13T18:49:33.6508297-03:00;False|2021-11-13T18:48:46.0738874-03:00;False|2021-11-13T18:47:41.1833904-03:00;True|2021-11-13T18:34:46.1358878-03:00;True|2021-11-13T18:30:38.2854037-03:00;False|2021-11-13T18:29:36.3314657-03:00;True|2021-11-13T18:24:16.2734913-03:00;False|2021-11-13T18:23:46.8393933-03:00;True|2021-11-13T18:22:19.6964032-03:00;False|2021-11-13T17:02:04.5072677-03:00;False|2021-11-13T17:01:07.7253429-03:00;True|2021-11-13T16:42:39.9208532-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/19/2021 20:28:54</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/21/2021 15:57:24</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/new-rg-parameters.json">
+      <publishTime>10/19/2021 20:28:54</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/preexisting-rg-parameters.json">
+      <publishTime>10/19/2021 20:28:54</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-new-rg.json">
+      <publishTime>10/19/2021 20:28:54</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-preexisting-rg.json">
+      <publishTime>10/19/2021 20:28:54</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot.deps.json">
+      <publishTime>11/21/2021 16:07:39</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot.dll">
+      <publishTime>11/21/2021 16:07:39</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot.exe">
+      <publishTime>11/21/2021 16:07:39</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot.pdb">
+      <publishTime>11/21/2021 16:07:39</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot.runtimeconfig.json">
+      <publishTime>11/21/2021 16:07:04</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot2.deps.json">
+      <publishTime>11/13/2021 18:34:23</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot2.dll">
+      <publishTime>11/13/2021 18:34:23</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot2.exe">
+      <publishTime>11/13/2021 18:34:23</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot2.pdb">
+      <publishTime>11/13/2021 18:34:23</publishTime>
+    </File>
+    <File Include="Metro.Atendimento.Bot2.runtimeconfig.json">
+      <publishTime>11/13/2021 18:21:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>12/16/2019 02:04:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>12/16/2019 02:17:30</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Dialogs.dll">
+      <publishTime>07/08/2021 18:11:40</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.dll">
+      <publishTime>07/08/2021 18:11:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Integration.AspNet.Core.dll">
+      <publishTime>07/01/2021 17:25:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Configuration.dll">
+      <publishTime>07/01/2021 17:25:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Connector.dll">
+      <publishTime>07/08/2021 18:11:40</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Schema.dll">
+      <publishTime>07/01/2021 17:25:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Streaming.dll">
+      <publishTime>07/08/2021 18:11:40</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>04/15/2020 03:35:56</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>04/15/2020 03:36:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <publishTime>04/15/2020 03:36:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Json.dll">
+      <publishTime>04/15/2020 03:36:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>04/15/2020 03:36:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>04/15/2020 03:37:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>04/15/2020 03:37:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>04/15/2020 03:36:32</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>06/21/2021 12:29:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>11/02/2019 03:35:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/18/2019 23:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/18/2019 23:40:20</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/18/2019 23:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/18/2019 23:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/18/2019 23:43:40</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Definitions.dll">
+      <publishTime>02/27/2020 05:49:02</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.Choice.dll">
+      <publishTime>02/27/2020 05:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.DateTime.dll">
+      <publishTime>02/27/2020 05:48:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.dll">
+      <publishTime>02/27/2020 05:48:52</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.Number.dll">
+      <publishTime>02/27/2020 05:48:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.NumberWithUnit.dll">
+      <publishTime>02/27/2020 05:48:50</publishTime>
+    </File>
+    <File Include="Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>11/20/2019 19:16:52</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="RestClient.dll">
+      <publishTime>03/22/2021 11:38:28</publishTime>
+    </File>
+    <File Include="RestSharp.dll">
+      <publishTime>10/30/2021 07:34:56</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/18/2019 23:38:18</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/21/2021 16:07:41</publishTime>
+    </File>
+    <File Include="wwwroot/default.htm">
+      <publishTime>11/13/2021 18:39:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
