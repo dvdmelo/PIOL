@@ -15,7 +15,8 @@ import { SituacaoLinhasComponent } from './situacao-linhas/situacao-linhas.compo
 import { RegistarManifestacaoComponent } from './registar-manifestacao/registar-manifestacao.component';
 import { ConsultarManifestacaoComponent } from './consultar-manifestacao/consultar-manifestacao.component';
 import { InputcontainerComponent } from '../app/shared/input-container/input-container.component';
-import { RegistarManifestacaoService } from './registar-manifestacao/registar-manifestacao.service'
+import { RegistarManifestacaoService } from './registar-manifestacao/registar-manifestacao.service';
+import { SituacaoLinhaComponent } from './situacao-linha/situacao-linha.component'
 
 
 @NgModule({
@@ -28,7 +29,8 @@ import { RegistarManifestacaoService } from './registar-manifestacao/registar-ma
     SituacaoLinhasComponent,
     RegistarManifestacaoComponent,
     ConsultarManifestacaoComponent,
-    InputcontainerComponent
+    InputcontainerComponent,
+    SituacaoLinhaComponent
   ],
   imports: [
     BrowserModule,

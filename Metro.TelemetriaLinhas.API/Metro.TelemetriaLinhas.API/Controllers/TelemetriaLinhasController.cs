@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Metro.TelemetriaLinhas.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route(template: "v1")]
     public class TelemetriaLinhasController : ControllerBase
     {
      
