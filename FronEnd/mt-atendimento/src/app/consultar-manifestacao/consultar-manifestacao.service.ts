@@ -14,8 +14,6 @@ export class ConsultarManifestacaoService {
 	constructor(private http: HttpClient){}
 
 
-
-
     consultarManifestacao(numeroProtocolo: number):Observable<ConsultarManifestacao>{ 
         const headers= new Headers()
         console.log('consultarManifestacao');
@@ -27,11 +25,9 @@ export class ConsultarManifestacaoService {
             headers: new HttpHeaders({
               'Content-Type':  'application/json'
             })};
-
             
-         return this.http.get<ConsultarManifestacao>(`${MT_API_ATENDIMENTO}/v1/atendimentos/${numeroProtocolo}`, httpOptions)
-             
-      }
+         return this.http.get<ConsultarManifestacao>(`${MT_API_ATENDIMENTO}/v1/atendimentos/${numeroProtocolo}`, httpOptions);             
+          }
 
 }
 

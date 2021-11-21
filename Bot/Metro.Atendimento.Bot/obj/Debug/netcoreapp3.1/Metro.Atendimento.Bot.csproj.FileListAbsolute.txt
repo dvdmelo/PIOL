@@ -1,0 +1,189 @@
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.exe
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.deps.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.dev.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\RestClient.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csprojAssemblyReference.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfoInputs.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfo.cs
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CoreCompileInputs.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cs
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.Manifest.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.xml
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Metro.Atendimento.Bot.styles.css
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.RazorTargetAssemblyInfo.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CopyComplete
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot2\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.genruntimeconfig.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.exe
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.deps.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.dev.json
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\RestClient.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csprojAssemblyReference.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfoInputs.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfo.cs
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CoreCompileInputs.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cs
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.Manifest.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.xml
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\scopedcss\bundle\Metro.Atendimento.Bot.styles.css
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.RazorTargetAssemblyInfo.cache
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CopyComplete
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+D:\Pós\Matérias\Projeto Integrado\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.genruntimeconfig.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.exe
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.deps.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.runtimeconfig.dev.json
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Metro.Atendimento.Bot.pdb
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\RestClient.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csprojAssemblyReference.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfoInputs.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.AssemblyInfo.cs
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CoreCompileInputs.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.Manifest.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\staticwebassets\Metro.Atendimento.Bot.StaticWebAssets.xml
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\scopedcss\bundle\Metro.Atendimento.Bot.styles.css
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.RazorTargetAssemblyInfo.cache
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.csproj.CopyComplete
+C:\dev\PIOL\Bot\Metro.Atendimento.Bot\obj\Debug\netcoreapp3.1\Metro.Atendimento.Bot.genruntimeconfig.cache

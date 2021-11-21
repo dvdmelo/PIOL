@@ -62,7 +62,6 @@ namespace Metro.Atendimento.Portal
 
             app.UseRouting();
 
-            //app.UseAuthorization();
             app.UseCors(MyAllowSpecificOrigins);
 
             app.UseEndpoints(endpoints =>
