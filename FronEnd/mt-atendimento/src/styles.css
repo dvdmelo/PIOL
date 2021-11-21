@@ -381,3 +381,27 @@
   
   background-color: #df2a12;
 }
+
+.noticia_faleconsco{
+  width: 80%;
+  height: 100%;
+  float: left;
+  background: url(/assets/image/fale-conosco.jpg) no-repeat center 0px;
+}
+
+.noticia_suaviagem{
+  width: 80%;
+  height: 100%;
+    float: left;
+    background: url(/assets/image/sua-viagem.jpg) no-repeat center 0px;
+
+}
+
+
+.noticia_obras{
+  width: 80%;
+  height: 100%;
+    float: left;
+    background: url(/assets/image/obras.jpg) no-repeat center 0px;
+
+}
